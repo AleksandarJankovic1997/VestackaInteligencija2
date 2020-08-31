@@ -1,0 +1,8 @@
+spider
+chicken
+horse
+butterfly
+elephant
+cats
+squirrel
+cow

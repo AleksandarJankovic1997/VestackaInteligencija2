@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "195142075677",
+    "firebase_url": "https://vestackainteligencija2.firebaseio.com",
+    "project_id": "vestackainteligencija2",
+    "storage_bucket": "vestackainteligencija2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195142075677:android:40756be9c3d8acd7bf0df4",
+        "android_client_info": {
+          "package_name": "com.example.vestackainteligencija2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195142075677-otomip59nvuba1a0ln330pqh18n7e7lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLy4eRBltC_zT3bE9amXfYIAxs4v_bcO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195142075677-otomip59nvuba1a0ln330pqh18n7e7lt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

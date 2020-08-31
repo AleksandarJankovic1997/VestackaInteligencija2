@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AnimalCustomModelFragment">
+    <Button
+        android:id="@+id/Image_classification_image_from_gallery_button2"
+        android:layout_marginTop="20px"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Choose photo from your gallery">
+    </Button>
+    <TextView
+        android:id="@+id/custommodel_text_view"
+        android:visibility="gone"
+        android:textSize="20px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </TextView>
+
+
+    <ImageView
+        android:visibility="gone"
+        android:id="@+id/image_classification_image_view2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </ImageView>
+
+
+</LinearLayout>
